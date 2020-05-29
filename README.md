@@ -15,12 +15,12 @@ The focus was on the detection part and image processing methods, for the two CN
 - Sanket Doshi. ”Traffic Sign Detection using Convolutional NeuralNetwork” 
   https://towardsdatascience.com/traffic-sign-detection-using-convolutional-neural-network-660fb32fe90e
   
-  You can run the application by running test_solution.py, you can choose two modes, selecting images and using your webcam.
+You can run the application by running test_solution.py, you can choose two modes, selecting images and using your webcam.
   
-  *Note: If you want to run test_solution.py it uses functions from utils.py and you need the download the pickle model from the link attached at the end of this file. You can comment the part where "model1.p" is loaded, but then you can use only the "Select images" function.
+*Note: If you want to run test_solution.py it uses functions from utils.py and you need the download the pickle model from the link attached at the end of this file. You can comment the part where "model1.p" is loaded, but then you can use only the "Select images" function.
   
-  *Note 2: You need OpenCV and Keras installed.
+*Note 2: You need OpenCV and Keras (and TensorFlow) installed.
   
-  Link to another model ("model1.p"):
+Link to another model ("model1.p"):
   
 https://drive.google.com/open?id=1grbAD7yYPDo7KqAgFSnFle70yygWvqYO
